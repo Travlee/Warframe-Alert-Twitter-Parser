@@ -1,0 +1,47 @@
+#Container{
+    position: relative;
+	left: auto;
+	right: auto;
+    top: 75px;
+	margin: auto;
+    
+    width: 500px;
+    height: 500px;
+    
+    /*background-color: #000;*/
+}
+
+.Title{
+    display: inline-block;
+    width: 500px;
+    height: 50px;
+    
+    color: #06f;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    
+    float: left;
+}
+.Alert-Block{
+    display: inline-block;
+    width: 500px;
+    height: 150px;
+    margin-bottom: 5px;
+    
+    background-color: #080808;
+    float: right;
+}
+.Alert-Default{
+    border: 1px solid #000;    
+}
+.Alert-Blueprint{
+    border: solid 1px #5F04B4;
+}
+.Alert-Artifact{
+    border: solid 1px #B404AE;
+}
+.Alert-Upgrade{
+    border: solid 1px #FE9A2E;
+}

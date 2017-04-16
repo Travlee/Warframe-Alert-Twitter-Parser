@@ -1,0 +1,58 @@
+{"LAST_CHECKED": 0,
+"ALERTS": [
+    {
+        "LOCATION": "Histo (Eris)",
+        "MISSION": "Destroy Enemy Facility",
+        "START": "56m",
+        "END": "56m",
+        "CREDITS": "12000cr",
+        "REWARD_TYPE": "KEY",
+        "REWARD": "Tower IV Mobile Defense"
+    },
+    {
+        "LOCATION": "Io (Jupiter)",
+        "MISSION": "Override Facility's Security Systems",
+        "START": "64m",
+        "END": "64m",
+        "CREDITS": "6600cr",
+        "REWARD_TYPE": "KEY",
+        "REWARD": "Tower IV Mobile Defense"
+    },
+    {
+        "LOCATION": "Kelpie (Sedna)",
+        "MISSION": "Reprogram Turret Targeting",
+        "START": "52m",
+        "END": "52m",
+        "CREDITS": "9100cr",
+        "REWARD_TYPE": "AURA",
+        "REWARD": "Enemy Rader"
+    },
+    {
+        "LOCATION": "Phithale (Sedna)",
+        "MISSION": "Elite Troops Located",
+        "START": "47m",
+        "END": "47m",
+        "CREDITS": "7800cr",
+        "REWARD_TYPE": "RESOURCE",
+        "REWARD": "300x Plastids"
+    }
+    ,
+    {
+        "LOCATION": "Gnathos (Eris)",
+        "MISSION": "Clear Resistance",
+        "START": "65m",
+        "END": "65m",
+        "CREDITS": "11000cr",
+        "REWARD_TYPE": "BLUEPRINT",
+        "REWARD": "Aurora Frost Helmet"
+    },
+    {
+        "LOCATION": "Umbriel (Uranus)",
+        "MISSION": "Nightmare Mod Located",
+        "START": "36m",
+        "END": "36m",
+        "CREDITS": "19000cr",
+        "REWARD_TYPE": "MOD",
+        "REWARD": "Stunning Speed"
+    }
+]}
